@@ -5,6 +5,7 @@
 		"express": "^4.14.0"
 	},
         "description": "This is a project to learn about back-end and APIs.",
+        "keywords": ["freecodecamp", "is", "great"], 
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
