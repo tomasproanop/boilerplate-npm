@@ -1,17 +1,19 @@
 {
-	"name": "fcc-learn-npm-package-json",
-	"author": "Tomas Proano",
-	"dependencies": {
-		"express": "^4.14.0"
-	},
-        "description": "This is a project to learn about back-end and APIs.",
-        "keywords": ["freecodecamp", "is", "great"], 
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://idontknow/todo.git"
-	}
+  "name": "fcc-learn-npm-package-json",
+  "author": "Tomas Proano",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "description": "This is a project to learn about back-end and APIs.",
+  "keywords": ["freecodecamp", "is", "great"],
+  "license": "MIT",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://idontknow/todo.git"
+  },
+  "version": "1.2.0"
 }
